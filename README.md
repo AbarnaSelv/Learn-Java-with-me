@@ -29,6 +29,16 @@ JavaPractice/
 - ✅ Looping Statements (for, while)  
 - ✅ String Handling and Palindrome Checker  
 - ✅ Arrays and Max Element Finder  
+- ✅ Methods in Java:
+  - Method with parameters and return
+  - Static vs Non-static methods
+- ✅ Object-Oriented Programming:
+  - Class & Object (Car)
+  - Constructor (Student)
+  - Inheritance (Animal → Dog)
+  - Polymorphism (Shape → Circle)
+  - Encapsulation (BankAccount with private fields)
+
 
 ---
 
